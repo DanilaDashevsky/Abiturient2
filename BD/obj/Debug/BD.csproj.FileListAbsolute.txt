@@ -23,3 +23,28 @@ C:\Users\HP\source\repos\BD\BD\obj\Debug\BD.csproj.CopyComplete
 C:\Users\HP\source\repos\BD\BD\obj\Debug\BD.exe
 C:\Users\HP\source\repos\BD\BD\obj\Debug\BD.pdb
 C:\Users\HP\source\repos\BD\BD\obj\Debug\BD.Form2.resources
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\bin\Debug\BD.exe.config
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\bin\Debug\BD.exe
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\bin\Debug\BD.pdb
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\bin\Debug\Google.Protobuf.dll
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\bin\Debug\ZstdNet.dll
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\bin\Debug\System.Memory.dll
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\bin\Debug\System.Buffers.dll
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\bin\Debug\MySql.Data.xml
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\obj\Debug\BD.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\obj\Debug\BD.exe.config
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\obj\Debug\BD.Form1.resources
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\obj\Debug\BD.Form2.resources
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\obj\Debug\BD.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\obj\Debug\BD.csproj.CopyComplete
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\obj\Debug\BD.exe
+C:\Users\student\Desktop\Папка другого проекта\Abiturient2\BD\obj\Debug\BD.pdb

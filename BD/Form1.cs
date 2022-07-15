@@ -34,7 +34,7 @@ namespace BD
 
         private void toolStripMenuItem2_Click(object sender, EventArgs e)
         {
-            mycom = new MySqlCommand("insert into abiturient (Специальность,Фамиля,Имя)values('TextBox1.Text','TextBox2.Text,'TextBox3.Text')", connect);
+            mycom = new MySqlCommand("insert into abiturient (Специальность,Фамиля,Имя)values('TextBox1.Text','TextBox2.Text,'TextBox3.Text')", mycon);
 
             //Form2 f2 = new Form2();
             //f2.Show();
